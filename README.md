@@ -5,7 +5,7 @@ The Solutions Architect role at Southern Glazers Wine & Spirits focuses on susta
 
 #### Duties and Responsibilities Comparison
 
-| **Duties and Responsibilities** | **Your Experience** |
+| **Duties and Responsibilities** | **My Experience** |
 |--------------------------------|---------------------|
 | Deliver appropriate solutions across application or infrastructure platforms | Experience leading product and engineering teams, cloud-hosted services, and SaaS platforms. |
 | Assist enterprise architects in defining enterprise vision. | Extensive experience in defining product roadmaps and strategies. |
@@ -26,7 +26,7 @@ The Solutions Architect role at Southern Glazers Wine & Spirits focuses on susta
 
 #### Skill Sets Comparison
 
-| **Required Skills** | **Your Skills** |
+| **Required Skills** | **My Skills** |
 |---------------------|-----------------|
 | Cloud platforms (Azure, AWS), microservices architectures, CI/CD processes | Proficient in AWS, Azure, CI/CD, and cloud optimization. |
 | Create comprehensive architecture artifacts | Developed product roadmaps and system architectures. |
