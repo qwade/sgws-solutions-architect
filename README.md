@@ -3,7 +3,7 @@
 #### Job Description Overview
 The Solutions Architect role at Southern Glazers Wine & Spirits focuses on sustainable technical architecture, designing end-to-end solutions, working with cross-functional teams, and leading the overall technical vision for platforms or solutions. The role includes making technical decisions that impact business outcomes, ensuring compliance with enterprise architecture standards, and communicating risks and solutions to stakeholders.
 
-#### [Duties and Responsibilities Comparison] (https://www.linkedin.com/in/qwbillings/)
+#### [Duties and Responsibilities Comparison](https://www.linkedin.com/in/qwbillings/)
 
 | **Duties and Responsibilities** | **My Experience** |
 |--------------------------------|---------------------|
