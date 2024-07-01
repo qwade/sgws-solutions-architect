@@ -16,7 +16,7 @@ The Solutions Architect role at Southern Glazers Wine & Spirits focuses on susta
 | Work with Enterprise Architects to ensure solutions are in place to mitigate risks | Led strategies to deliver GDPR-compliant hosting and FedRAMP efforts. |
 | Communicate risks and solutions to cross-functional key stakeholders | Built strong relationships with internal and external stakeholders. |
 | Research, design, and advocate new technologies and architectures | Led advanced AI and Machine Learning technology implementation. |
-| Evaluate and develop application-level architectures for application development | Developed comprehensive application and platform architectures. |
+| Evaluate and develop application-level architectures for application development |![](images/"Global Corp Auth Flow.jpg")Developed comprehensive application and platform architectures. |
 | Lead the development and maintenance of the platform strategy and architecture | Guided the development of multi-quarter product roadmaps. |
 | Organize the development effort | Directed globally distributed teams in various organizations. |
 | Provide motivation and guidance to the development team during the SDLC | Led teams focusing on CI/CD and product development practices. |
